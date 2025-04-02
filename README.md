@@ -22,7 +22,7 @@ Full Stack Developer who loves to tinker with code 🔧.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sougata-halder-b76b94134/) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/sougata_halder12?gsh=emY1bHRudnBnaWNk)
-[![Profile Views](https://komarev.com/ghpvc/?username=XoXoHarsh&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/Saggie213)
+
 
 <!-- - 💬 Ask me about anything related to Technology, if I don't know about it, I would be interested in learning more!-->
 - 📫 Reach me at: **halderdk33@gmail.com**
