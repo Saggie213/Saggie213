@@ -18,7 +18,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Sedan+SC&size=40&weight=600&duration=5000&pause=700&color=F5F5F5&background=15151500&center=true&vCenter=true&random=false&width=800&lines=Hi+there%2C+I'm+Sougata+Halder;Technology+and+Coding+Enthusiast" alt="Typing SVG"/>
 </div>
 
-Full Stack Developer who loves to tinker with code 🔧.
+Full Stack Developer especially Frontend who loves to play with code and make it fun 🔧.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sougata-halder-b76b94134/) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/sougata_halder12?gsh=emY1bHRudnBnaWNk)
