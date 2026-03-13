@@ -25,7 +25,7 @@ Full Stack Developer especially Frontend who loves to play with code and makes i
 ## 🌐 Portfolio
 
 🚀 Check out my live portfolio here:  
-🔗 **https://portfolio-hub-1098.emergent.host**
+🔗 **https://portfolio-hub-1098.emergent.cloud/**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sougata-halder-b76b94134/) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/sougata_halder12)
