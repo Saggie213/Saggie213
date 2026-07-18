@@ -15,7 +15,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Sedan+SC&size=40&weight=600&duration=5000&pause=700&color=F5F5F5&background=15151500&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Sougata+Halder;Technology+and+Coding+Enthusiast" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Sedan+SC&size=40&weight=600&duration=5000&pause=700&color=F5F5F5&background=15151500&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Sougata+Halder;Technology+and+Coding+Enthusiast" alt="Typing SVG"/>
 </div>
 
 ---
@@ -41,6 +41,21 @@ Try it in your terminal:
 ```bash
 npx @saggie/term-portfolio
 ```
+
+---
+
+## 🚀 Featured Projects
+
+| Project | What it is | Stack |
+|---------|-----------|-------|
+| 🧠 **[EchoBrain](https://github.com/Saggie213/EchoBrain)** · [live](https://echobrain-production-d553.up.railway.app/) | AI second brain for YouTube — turns any video into interactive mind maps, searchable transcripts & conversational Q&A | Next.js · FastAPI · Groq (Llama 3.3) |
+| 🪐 **[Orbit](https://github.com/Saggie213/Orbit)** · [live](https://orbit-theta-smoky.vercel.app) | Anime discovery as a force-directed constellation — shared studios, directors & themes draw the edges between titles | React · Canvas force-graph · Express · Jikan API |
+| ⚡ **[Live Edge](https://github.com/Saggie213/Live-Edge)** · [live](https://live-edge.onrender.com/) | Real-time sports win-probability & fatigue engine — streams soccer/cricket events over WebSockets with incremental ML | FastAPI · scikit-learn · React · Chart.js |
+| 🔄 **[LeetSync Pro](https://github.com/Saggie213/LeetSync)** | Chrome extension that auto-syncs LeetCode solutions to GitHub with Gemini AI explanations & analytics dashboards | Manifest V3 · GitHub API · Gemini |
+| 🎌 **[NeoAnime](https://github.com/Saggie213/anime-recommender)** · [live](https://brilliant-encouragement-production-6de2.up.railway.app/) | Hybrid anime recommender — TF-IDF content filtering + SVD collaborative filtering, semantic search & AI chatbot | React · Express · FastAPI ML service |
+| 💰 **[MoneyFlow](https://github.com/Saggie213/Money-Flow)** | Personal finance platform — budgets, recurring transactions, CSV export & financial analytics | React · TypeScript · Express |
+
+<sub>More on my [repositories tab](https://github.com/Saggie213?tab=repositories) →</sub>
 
 ---
 
